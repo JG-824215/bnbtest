@@ -9,7 +9,7 @@ import http.cookies
 
 # Define the port as varible
 HOST = "0.0.0.0"
-PORT = 8081
+PORT = 8000
 
 class Block:
     def __init__(self, index, timestamp, vote):
